@@ -1,0 +1,5 @@
+pandas
+scipy
+matplotlib
+tensorflow
+validate_email
